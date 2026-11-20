@@ -1,0 +1,169 @@
+HCDSEM_001 putative cobyric acid synthase CobQ
+HCDSEM_002 putative adenosylcobinamide kinase
+HCDSEM_003 putative cobaltochelatase, CobN subunit
+HCDSEM_004 putative cob(I)alamin adenosyltransferase
+HCDSEM_005 putative sirohydrochlorin cobaltochelatase
+HCDSEM_006 putative precorrin-8X methylmutase
+HCDSEM_007 hypothetical protein HCDSEM_007
+HCDSEM_008 hypothetical protein HCDSEM_008
+HCDSEM_009 putative precorrin-3B C17-methyltransferase
+HCDSEM_010 putative precorrin-4 C11-methyltransferase
+HCDSEM_011 hypothetical protein HCDSEM_011
+HCDSEM_012 hypothetical protein HCDSEM_012
+HCDSEM_013 putative uroporphyrin-III c-methyltransferase
+HCDSEM_015 putative cobalamin biosynthesis protein CobD
+HCDSEM_016 putative Ferredoxin II
+HCDSEM_017 putative RNA polymerase sigma factor
+HCDSEM_018 putative DNA polymerase III, epsilon subunit
+HCDSEM_019 putative glucose-inhibited division protein A
+HCDSEM_020 putative tRNA modification GTPase TrmE
+HCDSEM_021 putative 50S ribosomal subunit protein L13
+HCDSEM_022 putative 30S ribosomal subunit protein S9
+HCDSEM_023 hypothetical protein HCDSEM_023
+HCDSEM_024 putative imidazoleglycerol-phosphate
+HCDSEM_025 imidazole glycerol phosphate synthase, glutamine
+HCDSEM_026 putative
+HCDSEM_027 putative imidazoleglycerol phosphate synthase,
+HCDSEM_028 putative phosphoribosyl-ATP diphosphatase
+HCDSEM_029 hypothetical protein HCDSEM_029
+HCDSEM_030 putative 5,10-methylenetetrahydrofolate
+HCDSEM_031 hypothetical protein HCDSEM_031
+HCDSEM_032 hypothetical protein HCDSEM_032
+HCDSEM_033 hypothetical protein HCDSEM_033
+HCDSEM_034 hypothetical protein HCDSEM_034
+HCDSEM_035 conserved hypothetical protein HCDSEM_035
+HCDSEM_036 putative FeS assembly protein SufB
+HCDSEM_037 putative FeS assembly ATPase SufC
+HCDSEM_038 hypothetical protein HCDSEM_038
+HCDSEM_039 putative cysteine desulfurase, SufS subfamily
+HCDSEM_040 putative RNA pseudouridine synthase
+HCDSEM_042 putative valyl-tRNA synthetase
+HCDSEM_043 putative pseudouridine synthase
+HCDSEM_044 putative phosphatase
+HCDSEM_045 putative cobaltochelatase cobT subunit
+HCDSEM_046 putative cobaltochelatase, pCobS small subunit
+HCDSEM_047 putative FAD dependent oxidoreductase
+HCDSEM_048 putative GTP cyclohydrolase I
+HCDSEM_049 putative phosphoribosyl-AMP cyclohydrolase
+HCDSEM_050 putative glutamyl-tRNA synthetase
+HCDSEM_051 hypothetical protein HCDSEM_051
+HCDSEM_052 hypothetical protein HCDSEM_052
+HCDSEM_053 hypothetical protein HCDSEM_053
+HCDSEM_054 hypothetical protein HCDSEM_054
+HCDSEM_055 hypothetical protein HCDSEM_055
+HCDSEM_056 ribosomal protein L33
+HCDSEM_057 hypothetical protein HCDSEM_057
+HCDSEM_058 hypothetical protein HCDSEM_058
+HCDSEM_059 putative aspartyl/glutamyl-tRNA(Asn/Gln)
+HCDSEM_060 putative aspartyl/glutamyl-tRNA(Asn/Gln)
+HCDSEM_063 putative 50S ribosomal subunit protein L11
+HCDSEM_064 putative 50S ribosomal subunit protein L10
+HCDSEM_065 putative 50S ribosomal subunit protein L7/L12
+HCDSEM_066 putative DNA-directed RNA polymerase, beta
+HCDSEM_067 putative DNA-directed RNA polymerase beta'
+HCDSEM_068 30S ribosomal subunit protein S12
+HCDSEM_069 putative 30S ribosomal subunit protein S7
+HCDSEM_070 putative translation elongation factor G
+HCDSEM_071 translation elongation factor Tu
+HCDSEM_072 putative 30S ribosomal subunit protein S10
+HCDSEM_073 putative 50S ribosomal subunit protein L3
+HCDSEM_074 putative 50S ribosomal subunit protein L4
+HCDSEM_075 50S ribosomal subunit protein L2
+HCDSEM_076 30S ribosomal subunit protein S19
+HCDSEM_077 putative 50S ribosomal subunit protein L22
+HCDSEM_078 putative 30S ribosomal subunit protein S3
+HCDSEM_079 50S ribosomal subunit protein L16
+HCDSEM_080 putative 30S ribosomal subunit protein S17
+HCDSEM_081 50S ribosomal subunit protein L14
+HCDSEM_082 hypothetical protein HCDSEM_082
+HCDSEM_083 putative 50S ribosomal subunit protein L5
+HCDSEM_084 putative 30S ribosomal subunit protein S14
+HCDSEM_085 putative 30S ribosomal subunit protein S8
+HCDSEM_086 putative 50S ribosomal subunit protein L6
+HCDSEM_087 putative 50S ribosomal subunit protein L18
+HCDSEM_088 putative 30S ribosomal subunit protein S5
+HCDSEM_089 50S ribosomal subunit protein L15
+HCDSEM_090 putative 30S ribosomal subunit protein S13
+HCDSEM_091 putative 30S ribosomal subunit protein S11
+HCDSEM_092 putative DNA-directed RNA polymerase, alpha
+HCDSEM_093 putative 50S ribosomal subunit protein L17
+HCDSEM_094 putative Ribosomal L25/TL5/CTC 5S rRNA binding
+HCDSEM_095 putative ribose-phosphate diphosphokinase
+HCDSEM_097 putative tRNA
+HCDSEM_098 putative peptide chain release factor RF1
+HCDSEM_100 hypothetical protein HCDSEM_100
+HCDSEM_101 histidinal/histidinol dehydrogenase
+HCDSEM_102 putative translation initiation factor IF-1
+HCDSEM_104 DNA polymerase III, alpha subunit
+HCDSEM_105 putative prolyl-tRNA synthetase
+HCDSEM_106 putative 30S ribosomal subunit protein S16
+HCDSEM_107 putative 50S ribosomal subunit protein L19
+HCDSEM_109 putative peptide deformylase
+HCDSEM_110 putative cysteine synthase A
+HCDSEM_111 hypothetical protein HCDSEM_111
+HCDSEM_112 putative tryptophanyl-tRNA synthetase
+HCDSEM_113 hypothetical protein HCDSEM_113
+HCDSEM_115 putative ferredoxin-NADP+ reductase protein
+HCDSEM_116 hypothetical protein HCDSEM_116
+HCDSEM_117 putative sulfite reductase hemoprotein subunit
+HCDSEM_118 hypothetical protein HCDSEM_118
+HCDSEM_119 putative chaperone protein DnaJ
+HCDSEM_120 chaperone protein DnaK
+HCDSEM_121 hypothetical protein HCDSEM_121
+HCDSEM_122 putative translation initiation factor IF-2, C
+HCDSEM_123 putative cytochrome c
+HCDSEM_124 putative electron transfer flavoprotein, beta
+HCDSEM_125 putative electron transfer flavoprotein, alpha
+HCDSEM_126 hypothetical protein HCDSEM_126
+HCDSEM_127 hypothetical protein HCDSEM_127
+HCDSEM_133 putative 50S ribosomal subunit protein L27
+HCDSEM_134 hypothetical protein HCDSEM_134
+HCDSEM_135 serine hydroxymethyltransferase
+HCDSEM_136 putative riboflavin biosynthesis protein RibD
+HCDSEM_137 putative riboflavin synthase subunit alpha
+HCDSEM_138 putative histidyl-tRNA synthetase
+HCDSEM_139 hypothetical protein HCDSEM_139
+HCDSEM_140 putative ATP phosphoribosyltransferase
+HCDSEM_141 putative 6,7-dimethyl-8-ribityllumazine
+HCDSEM_144 putative cystathionine beta-lyase
+HCDSEM_145 putative serine acetyltransferase
+HCDSEM_146 hypothetical protein HCDSEM_146
+HCDSEM_147 putative glycyl-tRNA synthetase, alpha subunit
+HCDSEM_148 hypothetical protein HCDSEM_148
+HCDSEM_149 putative isoleucyl-tRNA synthetase
+HCDSEM_150 putative co-chaperonin GroES
+HCDSEM_151 chaperonin GroEL
+HCDSEM_152 putative 30S ribosomal subunit protein S1
+HCDSEM_153 hypothetical protein HCDSEM_153
+HCDSEM_154 putative 30S ribosomal subunit protein S2
+HCDSEM_155 putative protein chain elongation factor EF-Ts
+HCDSEM_156 putative ribosome recycling factor
+HCDSEM_157 putative methionyl-tRNA synthetase
+HCDSEM_158 putative histidinol-phosphate aminotransferase
+HCDSEM_159 putative 50S ribosomal subunit protein L28
+HCDSEM_160 putative 30S ribosomal subunit protein S6
+HCDSEM_161 putative 30S ribosomal subunit protein S18
+HCDSEM_162 putative adenylylsulfate reductase
+HCDSEM_165 hypothetical protein HCDSEM_165
+HCDSEM_166 putative B12-dependent methionine synthase
+HCDSEM_167 putative translation initiation factor IF-3
+HCDSEM_168 putative 50S ribosomal subunit protein L35
+HCDSEM_169 putative 50S ribosomal subunit protein L20
+HCDSEM_170 putative phenylalanyl-tRNA synthetase, alpha
+HCDSEM_171 hypothetical protein HCDSEM_171
+HCDSEM_172 putative ubiquinol-cytochrome c reductase,
+HCDSEM_173 putative cytochrome b
+HCDSEM_174 putative cytochrome c1
+HCDSEM_175 putative ATP-dependent Clp protease proteolytic
+HCDSEM_176 putative cobalamin 5'-phosphate synthase
+HCDSEM_177 putative alanyl-tRNA synthetase
+HCDSEM_178 30S ribosomal subunit protein S4
+HCDSEM_179 hypothetical protein HCDSEM_179
+HCDSEM_180 putative cytochrome C oxidase assembly protein
+HCDSEM_181 putative cytochrome c oxidase, subunit I
+HCDSEM_182 putative cytochrome c oxidase, subunit II
+HCDSEM_183 putative thioredoxin reductase
+HCDSEM_184 putative transcription elongation factor GreA
+HCDSEM_185 hypothetical protein HCDSEM_185
+HCDSEM_186 putative 50S ribosomal subunit protein L36
+HCDSEM_188 hypothetical protein HCDSEM_188

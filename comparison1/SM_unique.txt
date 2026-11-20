@@ -1,0 +1,187 @@
+SMDSEM_001 lipoyl-[acyl-carrier-protein]-protein-N-
+SMDSEM_002 putative fumarate hydratase
+SMDSEM_003 putative inner membrane protein translocase
+SMDSEM_005 DNA polymerase III, beta subunit
+SMDSEM_006 phenylalanyl-tRNA synthetase beta subunit
+SMDSEM_007 3-dehydroquinate synthase
+SMDSEM_008 putative partial DNA gyrase A subunit
+SMDSEM_009 putative ribosomal protein S1
+SMDSEM_010 putative O-methyltransferase family protein
+SMDSEM_011 putative type II NADH dehydrogenase
+SMDSEM_012 transcription termination factor Rho
+SMDSEM_014 3-dehydroquinate dehydratase
+SMDSEM_015 putative ATP synthase F1, epsilon subunit
+SMDSEM_016 F0F1 ATP synthase subunit beta
+SMDSEM_017 dimethyladenosine transferase
+SMDSEM_020 putative signal peptidase
+SMDSEM_022 GTP-binding protein LepA
+SMDSEM_023 putative DNA polymerase III, delta prime
+SMDSEM_024 putative peptidase U32
+SMDSEM_025 conserved hypothetical protein
+SMDSEM_026 glutaminyl-tRNA synthetase
+SMDSEM_028 conserved hypothetical protein
+SMDSEM_029 putative methyltransferase
+SMDSEM_032 ribosomal protein L25
+SMDSEM_033 methionyl-tRNA synthetase
+SMDSEM_034 prolipoprotein diacylglyceryl transferase
+SMDSEM_036 ATP synthase F1, gamma subunit
+SMDSEM_037 ATP synthase F1, alpha subunit
+SMDSEM_038 ATP synthase F1, delta subunit
+SMDSEM_039 ATP synthase F0 B subunit
+SMDSEM_040 ATP synthase F0 subunit c
+SMDSEM_041 ATP synthase F0 subunit a
+SMDSEM_042 putative aspartate kinase
+SMDSEM_043 MarC family integral membrane protein
+SMDSEM_044 3-isopropylmalate dehydrogenase
+SMDSEM_045 3-isopropylmalate dehydratase small subunit
+SMDSEM_046 3-isopropylmalate dehydratase large subunit
+SMDSEM_047 2-isopropylmalate synthase
+SMDSEM_048 conserved hypothetical protein
+SMDSEM_049 tyrosyl-tRNA synthetase
+SMDSEM_050 leucyl-tRNA synthetase
+SMDSEM_051 putative transketolase, N-terminal subunit
+SMDSEM_052 putative transketolase, C-terminal subunit
+SMDSEM_054 seryl-tRNA synthetase
+SMDSEM_055 50S ribosomal subunit protein L28
+SMDSEM_056 50S ribosomal protein L33
+SMDSEM_058 putative RNA pseudouridine synthase fragment
+SMDSEM_059 tRNA pseudouridine synthase A
+SMDSEM_063 50S ribosomal subunit protein L10
+SMDSEM_064 50S ribosomal protein L1
+SMDSEM_071 cytochrome c
+SMDSEM_072 molybdopterin oxidoreductase, iron-sulfur
+SMDSEM_073 molybdopterin oxidoredutase membrane subunit
+SMDSEM_074 conserved hypothetical protein
+SMDSEM_075 conserved hypothetical protein
+SMDSEM_076 conserved hypothetical protein
+SMDSEM_077 cysteine desulfurase SufE subunit
+SMDSEM_078 putative polyprenyl synthetase
+SMDSEM_084 succinyl-CoA synthetase beta subunit
+SMDSEM_085 N terminal region of DNA polymerase III, gamma
+SMDSEM_086 putative Sec-independent tatA/E protein
+SMDSEM_089 DNA mismatch repair protein MutS
+SMDSEM_092 elongation factor Ts
+SMDSEM_097 translation initiation factor 3
+SMDSEM_098 ribosomal protein L35
+SMDSEM_100 peptide deformylase
+SMDSEM_101 Holliday junction resolvase-like protein
+SMDSEM_102 2,3,4,5-tetrahydropyridine-2-carboxylate
+SMDSEM_103 branched-chain amino acid aminotransferase
+SMDSEM_104 putative tRNA nucleotidyltransferase
+SMDSEM_105 tRNA
+SMDSEM_107 conserved hypothetical protein
+SMDSEM_108 dihydrolipoamide dehydrogenase
+SMDSEM_109 replicative DNA helicase
+SMDSEM_110 M42 family metalloprotease
+SMDSEM_111 putative ribosome-binding factor A
+SMDSEM_112 phosphate acetyltransferase
+SMDSEM_113 acetate kinase
+SMDSEM_117 putative bifunctional argininosuccinate synthase
+SMDSEM_118 N-acetyl-gamma-glutamyl-phosphate reductase
+SMDSEM_119 acetylornithine aminotransferase
+SMDSEM_120 carbamoyl phosphate synthase small subunit
+SMDSEM_121 carbamyl phosphate synthase large subunit
+SMDSEM_122 putative ornithine carbamoyltransferase
+SMDSEM_123 acetylglutamate kinase
+SMDSEM_124 putative acetylornithine deacetylase
+SMDSEM_127 shikimate kinase
+SMDSEM_128 putative tRNA(Ile)-lysidine synthetase
+SMDSEM_129 tryptophan synthase subunit alpha
+SMDSEM_130 putative bifunctional tryptophan synthase, beta
+SMDSEM_131 indole-3-glycerol phosphate synthase activity of
+SMDSEM_132 anthranilate phosphoribosyltransferase
+SMDSEM_133 anthranilate synthase component II
+SMDSEM_134 anthranilate synthase component I
+SMDSEM_135 prolyl-tRNA synthetase
+SMDSEM_136 ATP-dependent protease La
+SMDSEM_137 diaminopimelate decarboxylase
+SMDSEM_139 chorismate synthase
+SMDSEM_140 heat shock protein 90
+SMDSEM_141 putative MiaB-like protein
+SMDSEM_142 translocase secA
+SMDSEM_143 50S ribosomal protein L19
+SMDSEM_144 ferredoxin-like protein
+SMDSEM_145 glycyl-tRNA synthetase
+SMDSEM_146 1,4-dihydroxy-2-naphthoate
+SMDSEM_147 threonine synthase
+SMDSEM_148 homoserine kinase
+SMDSEM_149 aspartokinase/homoserine dehydrogenase
+SMDSEM_153 hypothetical protein
+SMDSEM_154 conserved hypothetical protein
+SMDSEM_155 putative cytochrome c oxidase, cbb3-type, ccoP
+SMDSEM_156 bifunctional cytochrome c oxidase, cbb3-type,
+SMDSEM_157 cation transport ATPase, E1-E2 family protein
+SMDSEM_158 GTP-binding protein EngA
+SMDSEM_159 lipoyl synthase
+SMDSEM_160 50S ribosomal subunit protein L34
+SMDSEM_161 succinyl-CoA synthetase, alpha subunit
+SMDSEM_162 CAAX amino terminal protease family protein
+SMDSEM_167 putative outer membrane protein
+SMDSEM_168 putative ribosome recycling factor
+SMDSEM_169 asparaginyl-tRNA synthetase
+SMDSEM_171 50S ribosomal protein L21
+SMDSEM_174 30S ribosomal protein S6
+SMDSEM_176 ribosomal protein L9
+SMDSEM_177 hypothetical protein
+SMDSEM_178 hypothetical protein
+SMDSEM_179 dihydrodipicolinate synthase
+SMDSEM_180 peptide chain release factor 2
+SMDSEM_181 dihydrodipicolinate reductase
+SMDSEM_182 signal peptidase I
+SMDSEM_183 30S ribosomal subunit protein S21
+SMDSEM_184 shikimate 5-dehydrogenase
+SMDSEM_185 GTP-binding protein
+SMDSEM_186 dihydrolipoamide dehydrogenase
+SMDSEM_188 conserved hypothetical protein
+SMDSEM_191 2-oxoglutarate dehydrogenase, E1 component
+SMDSEM_192 2-oxoglutarate dehydrogenase, E2 component
+SMDSEM_193 putative Sec-independent protein translocase
+SMDSEM_194 SsrA (tmRNA)-binding protein
+SMDSEM_195 putative ATP transporter
+SMDSEM_196 conserved hypothetical protein
+SMDSEM_197 conserved hypothetical protein
+SMDSEM_200 RNA modification protein, MiaB family
+SMDSEM_203 putative FeS assembly protein SufD
+SMDSEM_205 transcription elongation factor NusA
+SMDSEM_207 putative bifunctional
+SMDSEM_208 aminotransferase
+SMDSEM_209 putative prephenate dehydratase
+SMDSEM_210 aspartate semialdehyde dehydrogenase
+SMDSEM_211 ribosomal protein S20
+SMDSEM_213 3-phosphoshikimate 1-carboxyvinyltransferase
+SMDSEM_214 putative 16S rRNA processing protein RimM
+SMDSEM_215 30S ribosomal protein S16
+SMDSEM_218 DNA gyrase B subunit
+SMDSEM_219 glucose-inhibited division protein B
+SMDSEM_221 50S ribosomal subunit protein L32
+SMDSEM_222 putative pyruvate dehydrogenase E1 component,
+SMDSEM_223 fructose-bisphosphate aldolase, class II
+SMDSEM_224 RNA polymerase sigma factor rpoD
+SMDSEM_225 putative polyribonucleotide
+SMDSEM_226 30S ribosomal subunit protein S15
+SMDSEM_227 ubiquinone/menaquinone biosynthesis
+SMDSEM_228 ribosomal protein L31
+SMDSEM_235 putative 50S ribosomal protein L23
+SMDSEM_238 50S ribosomal protein L22
+SMDSEM_241 30S ribosomal protein S17
+SMDSEM_243 putative 50S ribosomal protein L24
+SMDSEM_248 50S ribosomal subunit protein L18
+SMDSEM_253 50S ribosomal subunit protein L36
+SMDSEM_258 50S ribosomal subunit protein L17
+SMDSEM_259 diaminopimelate epimerase
+SMDSEM_260 putative delta-1-pyrroline-5-carboxylate
+SMDSEM_261 putative DNA mismatch repair protein MutL
+SMDSEM_262 argininosuccinate lyase
+SMDSEM_263 lysyl-tRNA synthetase
+SMDSEM_265 pyruvate dehydrogenase E1 component, alpha
+SMDSEM_266 dihydrolipoamide acyltransferase E2 component
+SMDSEM_267 integral membrane protein TerC family
+SMDSEM_268 glyceraldehyde 3-phosphate dehydrogenase
+SMDSEM_269 conserved hypothetical protein
+SMDSEM_270 putative DNA polymerase III, delta subunit
+SMDSEM_272 putative tRNA:rRNA methyltransferase
+SMDSEM_274 threonine dehydratase
+SMDSEM_275 ketol-acid reductoisomerase
+SMDSEM_276 putative acetolactate synthase small subunit
+SMDSEM_277 putative acetolactate synthase large subunit
+SMDSEM_278 dihydroxy-acid dehydratase
