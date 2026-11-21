@@ -1,0 +1,247 @@
+SMTETUND_001 Octanoyltransferase
+SMTETUND_002 Fumarate hydratase class II
+SMTETUND_003 Oxa1Ec
+SMTETUND_004 Valine--tRNA ligase
+SMTETUND_005 DNA polymerase III subunit beta
+SMTETUND_006 Phenylalanine--tRNA ligase beta subunit
+SMTETUND_007 3-dehydroquinate synthase
+SMTETUND_008 30S ribosomal protein S1
+SMTETUND_009 Putative O-methyltransferase
+SMTETUND_010 NADH dehydrogenase-like protein
+SMTETUND_011 Transcription termination factor Rho
+SMTETUND_012 Peptide chain release factor 1
+SMTETUND_013 3-dehydroquinate dehydratase
+SMTETUND_014 ATP synthase F1, epsilon subunit
+SMTETUND_015 ATP synthase subunit beta
+SMTETUND_016 Ribosomal RNA small subunit methyltransferase A
+SMTETUND_018 Isoleucine--tRNA ligase
+SMTETUND_019 Isoleucine--tRNA ligase
+SMTETUND_021 Elongation factor 4
+SMTETUND_022 DNA polymerase III subunit delta'
+SMTETUND_023 putative protease yhbU precursor
+SMTETUND_024 hypothetical protein
+SMTETUND_025 Glutamine--tRNA ligase
+SMTETUND_026 tRNA uridine 5-carboxymethylaminomethyl
+SMTETUND_027 putative rRNA maturation factor
+SMTETUND_028 Ribosomal RNA small subunit methyltransferase I
+SMTETUND_030 Ribose-phosphate pyrophosphokinase
+SMTETUND_031 50S ribosomal subunit protein L25
+SMTETUND_032 Methionine--tRNA ligase
+SMTETUND_033 Prolipoprotein diacylglyceryl transferase
+SMTETUND_034 Glutamate--tRNA ligase
+SMTETUND_035 F-ATPase gamma subunit
+SMTETUND_036 ATP synthase subunit alpha
+SMTETUND_037 F0F1 ATP synthase subunit delta
+SMTETUND_038 F-type ATPase subunit b
+SMTETUND_039 Lipid-binding protein
+SMTETUND_040 F-ATPase subunit 6
+SMTETUND_041 Lysine-sensitive aspartokinase 3
+SMTETUND_042 MarC family integral membrane protein
+SMTETUND_043 23S rRNA (guanosine-2'-O-)-methyltransferase
+SMTETUND_044 3-isopropylmalate dehydrogenase
+SMTETUND_045 3-isopropylmalate dehydratase small subunit 1
+SMTETUND_046 3-isopropylmalate dehydratase large subunit
+SMTETUND_047 2-isopropylmalate synthase
+SMTETUND_048 hypothetical protein
+SMTETUND_049 Tyrosine--tRNA ligase
+SMTETUND_050 Leucine--tRNA ligase
+SMTETUND_051 Transketolase
+SMTETUND_052 1-deoxy-D-xylulose-5-phosphate synthase
+SMTETUND_054 Serine--tRNA ligase
+SMTETUND_055 50S ribosomal protein L28
+SMTETUND_056 50S ribosomal protein L33 2
+SMTETUND_058 Ribosomal large subunit pseudouridine synthase
+SMTETUND_059 tRNA pseudouridine synthase A
+SMTETUND_060 DNA-directed RNA polymerase subunit beta'
+SMTETUND_061 DNA-directed RNA polymerase subunit beta
+SMTETUND_062 50S ribosomal protein L7/L12
+SMTETUND_063 50S ribosomal protein L10
+SMTETUND_064 50S ribosomal protein L1
+SMTETUND_065 50S ribosomal protein L11
+SMTETUND_067 Elongation factor Tu
+SMTETUND_072 putative heme-binding domain protein
+SMTETUND_073 Formate dehydrogenase iron-sulfur subunit
+SMTETUND_074 molybdopterin oxidoreductase membrane subunit
+SMTETUND_075 hypothetical protein
+SMTETUND_076 hypothetical protein
+SMTETUND_077 hypothetical protein
+SMTETUND_078 Cysteine desulfuration protein sufE
+SMTETUND_079 Octaprenyl-diphosphate synthase
+SMTETUND_085 Succinyl-CoA ligase [ADP-forming] subunit beta
+SMTETUND_086 DNA polymerase III subunit tau
+SMTETUND_087 twin arginine translocase protein A
+SMTETUND_088 ATP-dependent Clp protease proteolytic subunit
+SMTETUND_089 ATP-dependent Clp protease ATP-binding subunit
+SMTETUND_090 DNA mismatch repair protein mutS
+SMTETUND_093 Elongation factor Ts
+SMTETUND_094 ribosomal protein S2
+SMTETUND_095 30S ribosomal protein S9
+SMTETUND_096 50S ribosomal protein L13
+SMTETUND_097 Heat shock protein 70
+SMTETUND_098 Translation initiation factor IF-3
+SMTETUND_099 50S ribosomal protein L35
+SMTETUND_100 50S ribosomal protein L20
+SMTETUND_101 Peptide deformylase
+SMTETUND_102 Putative Holliday junction resolvase
+SMTETUND_103 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate
+SMTETUND_104 putative branched-chain-amino-acid
+SMTETUND_105 multifunctional tRNA nucleotidyl
+SMTETUND_106 tRNA-specific 2-thiouridylase mnmA
+SMTETUND_107 Heat shock protein J
+SMTETUND_108 Ribonuclease Y
+SMTETUND_109 Dihydrolipoyl dehydrogenase
+SMTETUND_110 Replicative DNA helicase
+SMTETUND_111 Putative aminopeptidase ysdC
+SMTETUND_112 Ribosome-binding factor A
+SMTETUND_113 tRNA modification GTPase TrmE
+SMTETUND_115 putative bifunctional DNA polymerase III, alpha
+SMTETUND_116 putative bifunctional argininosuccinate synthase
+SMTETUND_117 N-acetyl-gamma-glutamyl-phosphate reductase
+SMTETUND_118 Acetylornithine aminotransferase
+SMTETUND_119 Carbamoyl-phosphate synthase small chain
+SMTETUND_120 Carbamoyl-phosphate synthase large chain
+SMTETUND_121 N-acetylornithine carbamoyltransferase
+SMTETUND_122 Acetylglutamate kinase
+SMTETUND_123 putative acetylornithine deacetylase
+SMTETUND_126 Shikimate kinase
+SMTETUND_127 tRNA(Ile)-lysidine synthase
+SMTETUND_128 Tryptophan synthase alpha chain
+SMTETUND_129 putative bifunctional tryptophan synthase, beta
+SMTETUND_130 Indole-3-glycerol phosphate synthase
+SMTETUND_131 Anthranilate phosphoribosyltransferase
+SMTETUND_132 Anthranilate synthase component II
+SMTETUND_133 Anthranilate synthase component 1
+SMTETUND_134 Cysteine desulfurase
+SMTETUND_135 Proline--tRNA ligase
+SMTETUND_136 Lon protease 2
+SMTETUND_137 diaminopimelate decarboxylase
+SMTETUND_139 Chorismate synthase
+SMTETUND_140 High temperature protein G
+SMTETUND_141 (Dimethylallyl)adenosine tRNA
+SMTETUND_142 translocase secA
+SMTETUND_143 50S ribosomal protein L19
+SMTETUND_144 Ferredoxin
+SMTETUND_145 Glycine--tRNA ligase
+SMTETUND_146 1,4-dihydroxy-2-naphthoate
+SMTETUND_147 Threonine synthase
+SMTETUND_148 Homoserine kinase
+SMTETUND_149 Aspartokinase I/homoserine dehydrogenase I
+SMTETUND_153 hypothetical protein
+SMTETUND_154 FixH
+SMTETUND_155 Cytochrome c oxidase subunit III
+SMTETUND_156 putative bifunctional cbb3-type cytochrome c
+SMTETUND_157 putative copper-importing P-type ATPase A
+SMTETUND_158 GTP-binding protein EngA
+SMTETUND_159 Lipoyl synthase
+SMTETUND_160 50S ribosomal protein L34
+SMTETUND_161 Succinyl-CoA ligase [ADP-forming] subunit alpha
+SMTETUND_162 exosortase E/protease, VPEID-CTERM system
+SMTETUND_165 Tryptophan--tRNA ligase
+SMTETUND_167 hypothetical protein
+SMTETUND_168 Outer membrane protein omp85 precursor
+SMTETUND_169 Vegetative protein 12B
+SMTETUND_170 Asparagine--tRNA ligase
+SMTETUND_173 50S ribosomal protein L21
+SMTETUND_174 50S ribosomal protein L27
+SMTETUND_176 30S ribosomal protein S6
+SMTETUND_177 30S ribosomal protein S18
+SMTETUND_178 50S ribosomal protein L9
+SMTETUND_179 hypothetical protein
+SMTETUND_180 DNA uptake lipoprotein
+SMTETUND_181 Dihydrodipicolinate synthase
+SMTETUND_182 Peptide chain release factor 2
+SMTETUND_183 Dihydrodipicolinate reductase
+SMTETUND_184 Signal peptidase I
+SMTETUND_185 30S ribosomal protein S21
+SMTETUND_186 Shikimate dehydrogenase
+SMTETUND_187 GTP-binding protein obg
+SMTETUND_188 Dihydrolipoyl dehydrogenase
+SMTETUND_190 hypothetical protein
+SMTETUND_192 Alanine--tRNA ligase
+SMTETUND_193 2-oxoglutarate dehydrogenase E1 component
+SMTETUND_194 Dihydrolipoyllysine-residue succinyltransferase
+SMTETUND_195 Sec-independent protein translocase protein
+SMTETUND_196 SsrA-binding protein
+SMTETUND_197 putative ABC transporter ATP-binding protein
+SMTETUND_198 FeS assembly SUF system protein
+SMTETUND_199 hypothetical protein
+SMTETUND_200 chaperonin GroEL
+SMTETUND_201 co-chaperonin GroES
+SMTETUND_202 (Dimethylallyl)adenosine tRNA
+SMTETUND_203 FeS cluster assembly protein sufB
+SMTETUND_204 putative ATP-dependent transporter SufC
+SMTETUND_205 FeS cluster assembly protein sufD
+SMTETUND_206 Cysteine desulfurase
+SMTETUND_207 Transcription elongation protein nusA
+SMTETUND_208 Translation initiation factor IF-2
+SMTETUND_209 putative bifunctional
+SMTETUND_210 P-protein
+SMTETUND_211 Aspartate-semialdehyde dehydrogenase
+SMTETUND_212 30S ribosomal protein S20
+SMTETUND_214 3-phosphoshikimate 1-carboxyvinyltransferase
+SMTETUND_215 30S ribosomal protein S16
+SMTETUND_217 Transcript cleavage factor greA
+SMTETUND_218 DNA gyrase subunit B
+SMTETUND_219 Ribosomal RNA small subunit methyltransferase G
+SMTETUND_220 Aspartate aminotransferase
+SMTETUND_221 Methionine aminopeptidase 1
+SMTETUND_222 50S ribosomal protein L32
+SMTETUND_223 2-oxoisovalerate dehydrogenase subunit beta
+SMTETUND_224 Fructose-bisphosphate aldolase class 2
+SMTETUND_225 hypothetical protein
+SMTETUND_226 RNA polymerase sigma factor rpoD
+SMTETUND_227 Polyribonucleotide nucleotidyltransferase
+SMTETUND_228 30S ribosomal protein S15
+SMTETUND_229 Demethylmenaquinone methyltransferase
+SMTETUND_230 50S ribosomal protein L31 type B
+SMTETUND_231 30S ribosomal protein S12
+SMTETUND_232 30S ribosomal protein S7
+SMTETUND_233 elongation factor EF-2
+SMTETUND_234 30S ribosomal protein S10
+SMTETUND_235 50S ribosomal protein L3
+SMTETUND_236 50S ribosomal protein L4
+SMTETUND_237 Ribosomal protein L23
+SMTETUND_238 50S ribosomal protein L2
+SMTETUND_239 30S ribosomal protein S19
+SMTETUND_240 50S ribosomal protein L22
+SMTETUND_241 30S ribosomal protein S3
+SMTETUND_242 50S ribosomal protein L16
+SMTETUND_243 30S ribosomal protein S17
+SMTETUND_244 50S ribosomal protein L14
+SMTETUND_245 50S ribosomal protein L24
+SMTETUND_246 50S ribosomal protein L5
+SMTETUND_247 Alternate 30S ribosomal protein S14
+SMTETUND_248 30S ribosomal protein S8
+SMTETUND_249 50S ribosomal protein L6
+SMTETUND_250 50S ribosomal protein L18
+SMTETUND_251 30S ribosomal protein S5
+SMTETUND_252 50S ribosomal protein L30
+SMTETUND_253 50S ribosomal protein L15
+SMTETUND_254 preprotein translocase subunit SecY
+SMTETUND_255 Translation initiation factor IF-1
+SMTETUND_256 50S ribosomal protein L36
+SMTETUND_257 30S ribosomal protein S13
+SMTETUND_258 30S ribosomal protein S11
+SMTETUND_259 30S ribosomal protein S4
+SMTETUND_260 DNA-directed RNA polymerase subunit alpha
+SMTETUND_261 50S ribosomal protein L17
+SMTETUND_262 Diaminopimelate epimerase
+SMTETUND_263 Ribosomal RNA small subunit methyltransferase H
+SMTETUND_265 1-pyrroline-5-carboxylate dehydrogenase 1
+SMTETUND_266 DNA mismatch repair protein mutL
+SMTETUND_267 Argininosuccinate lyase
+SMTETUND_268 Lysine--tRNA ligase
+SMTETUND_270 Acetoin:2,6-dichlorophenolindophenol
+SMTETUND_271 Dihydrolipoyllysine-residue acetyltransferase
+SMTETUND_272 hypothetical protein
+SMTETUND_273 Glyceraldehyde-3-phosphate dehydrogenase A
+SMTETUND_274 hypothetical protein
+SMTETUND_275 DNA polymerase III subunit delta
+SMTETUND_276 Thioredoxin reductase
+SMTETUND_277 Putative TrmH family tRNA/rRNA
+SMTETUND_278 Phenylalanine--tRNA ligase alpha subunit
+SMTETUND_279 L-threonine dehydratase biosynthetic IlvA
+SMTETUND_280 Ketol-acid reductoisomerase
+SMTETUND_281 putative acetolactate synthase small subunit
+SMTETUND_282 Acetolactate synthase large subunit
+SMTETUND_283 Dihydroxy-acid dehydratase

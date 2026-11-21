@@ -1,0 +1,5 @@
+SMDSEM_008 putative partial DNA gyrase A subunit
+SMDSEM_112 phosphate acetyltransferase
+SMDSEM_113 acetate kinase
+SMDSEM_208 aminotransferase
+SMDSEM_214 putative 16S rRNA processing protein RimM

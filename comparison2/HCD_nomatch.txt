@@ -1,0 +1,33 @@
+HCDSEM_011 hypothetical protein HCDSEM_011
+HCDSEM_012 hypothetical protein HCDSEM_012
+HCDSEM_023 hypothetical protein HCDSEM_023
+HCDSEM_029 hypothetical protein HCDSEM_029
+HCDSEM_031 hypothetical protein HCDSEM_031
+HCDSEM_032 hypothetical protein HCDSEM_032
+HCDSEM_033 hypothetical protein HCDSEM_033
+HCDSEM_034 hypothetical protein HCDSEM_034
+HCDSEM_040 putative RNA pseudouridine synthase
+HCDSEM_051 hypothetical protein HCDSEM_051
+HCDSEM_052 hypothetical protein HCDSEM_052
+HCDSEM_053 hypothetical protein HCDSEM_053
+HCDSEM_054 hypothetical protein HCDSEM_054
+HCDSEM_055 hypothetical protein HCDSEM_055
+HCDSEM_057 hypothetical protein HCDSEM_057
+HCDSEM_058 hypothetical protein HCDSEM_058
+HCDSEM_065 putative 50S ribosomal subunit protein L7/L12
+HCDSEM_082 hypothetical protein HCDSEM_082
+HCDSEM_100 hypothetical protein HCDSEM_100
+HCDSEM_111 hypothetical protein HCDSEM_111
+HCDSEM_113 hypothetical protein HCDSEM_113
+HCDSEM_116 hypothetical protein HCDSEM_116
+HCDSEM_118 hypothetical protein HCDSEM_118
+HCDSEM_121 hypothetical protein HCDSEM_121
+HCDSEM_126 hypothetical protein HCDSEM_126
+HCDSEM_127 hypothetical protein HCDSEM_127
+HCDSEM_134 hypothetical protein HCDSEM_134
+HCDSEM_135 serine hydroxymethyltransferase
+HCDSEM_146 hypothetical protein HCDSEM_146
+HCDSEM_148 hypothetical protein HCDSEM_148
+HCDSEM_153 hypothetical protein HCDSEM_153
+HCDSEM_160 putative 30S ribosomal subunit protein S6
+HCDSEM_165 hypothetical protein HCDSEM_165

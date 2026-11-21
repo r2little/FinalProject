@@ -1,0 +1,261 @@
+HCTETUND1_001 DNA-directed RNA polymerase subunit beta
+HCTETUND1_002 DNA-directed RNA polymerase subunit beta'
+HCTETUND1_003 30S ribosomal subunit protein S12
+HCTETUND1_004 30S ribosomal protein S7
+HCTETUND1_005 elongation factor EF-2
+HCTETUND1_006 Elongation factor Tu
+HCTETUND1_007 putative 30S ribosomal subunit protein S10
+HCTETUND1_008 putative 50S ribosomal subunit protein L3
+HCTETUND1_010 putative 50S ribosomal subunit protein L4
+HCTETUND1_011 30S ribosomal protein S19
+HCTETUND1_013 30S ribosomal protein S3
+HCTETUND1_014 50S ribosomal subunit protein L16
+HCTETUND1_015 30S ribosomal protein S17
+HCTETUND1_016 50S ribosomal protein L14
+HCTETUND1_017 hypothetical protein
+HCTETUND1_018 putative 50S ribosomal subunit protein L5
+HCTETUND1_019 30S ribosomal subunit protein S14
+HCTETUND1_020 putative 30S ribosomal subunit protein S8
+HCTETUND1_021 50S ribosomal protein L6
+HCTETUND1_022 putative 50S ribosomal subunit protein L18
+HCTETUND1_023 30S ribosomal protein S5
+HCTETUND1_024 50S ribosomal protein L15
+HCTETUND1_026 putative 30S ribosomal subunit protein S11
+HCTETUND1_027 DNA-directed RNA polymerase subunit alpha
+HCTETUND1_028 putative 50S ribosomal subunit protein L17
+HCTETUND1_029 50S ribosomal subunit protein L25
+HCTETUND1_032 tRNA-specific 2-thiouridylase MnmA
+HCTETUND1_037 Histidinol dehydrogenase
+HCTETUND1_038 Translation initiation factor IF-1
+HCTETUND1_040 DNA polymerase III subunit alpha
+HCTETUND1_041 Proline--tRNA ligase
+HCTETUND1_044 50S ribosomal subunit protein L19
+HCTETUND1_045 putative peptide deformylase
+HCTETUND1_047 Cysteine synthase
+HCTETUND1_049 Tryptophan--tRNA ligase
+HCTETUND1_051 Ferredoxin--NADP reductase
+HCTETUND1_052 Sulfite reductase
+HCTETUND1_053 hypothetical protein
+HCTETUND1_054 Chaperone protein DnaJ
+HCTETUND1_055 Heat shock protein 70
+HCTETUND1_056 hypothetical protein
+HCTETUND1_058 Cytochrome c2 precursor
+HCTETUND1_061 hypothetical protein
+HCTETUND1_067 putative 50S ribosomal subunit protein L27
+HCTETUND1_068 hypothetical protein
+HCTETUND1_069 hypothetical protein
+HCTETUND1_070 putative riboflavin biosynthesis protein RibD
+HCTETUND1_071 Riboflavin synthase alpha chain
+HCTETUND1_072 Histidine--tRNA ligase
+HCTETUND1_074 ATP phosphoribosyltransferase
+HCTETUND1_075 putative 6,7-dimethyl-8-ribityllumazine
+HCTETUND1_076 hypothetical protein
+HCTETUND1_077 Cystathionine beta-lyase metC
+HCTETUND1_078 Serine acetyltransferase
+HCTETUND1_079 hypothetical protein
+HCTETUND1_080 Glycine--tRNA ligase alpha subunit
+HCTETUND1_081 hypothetical protein
+HCTETUND1_082 Isoleucine--tRNA ligase
+HCTETUND1_083 co-chaperonin GroES
+HCTETUND1_084 chaperonin GroEL
+HCTETUND1_085 30S ribosomal protein S1
+HCTETUND1_086 Ribosomal RNA small subunit methyltransferase I
+HCTETUND1_087 hypothetical protein
+HCTETUND1_088 30S ribosomal protein S2
+HCTETUND1_089 putative protein chain elongation factor EF-T
+HCTETUND1_091 Methionine--tRNA ligase
+HCTETUND1_093 50S ribosomal protein L28
+HCTETUND1_097 Phosphoadenosine phosphosulfate reductase
+HCTETUND1_100 RNA polymerase sigma factor
+HCTETUND1_102 cobalamin biosynthesis protein
+HCTETUND1_103 hypothetical protein
+HCTETUND1_104 hypothetical protein
+HCTETUND1_110 Aerobic cobaltochelatase subunit CobN
+HCTETUND1_111 Adenosylcobinamide kinase
+HCTETUND1_112 Cobyric acid synthase
+HCTETUND1_113 hypothetical protein
+HCTETUND1_114 hypothetical protein
+HCTETUND1_115 putative 50S ribosomal subunit protein L36
+HCTETUND1_117 putative transcription elongation factor GreA
+HCTETUND1_119 Cytochrome c oxidase subunit 2 precursor
+HCTETUND1_120 Cytochrome c oxidase subunit 1
+HCTETUND1_121 putative cytochrome C oxidase assembly protein
+HCTETUND1_122 hypothetical protein
+HCTETUND1_123 30S ribosomal subunit protein S4
+HCTETUND1_124 Alanine--tRNA ligase
+HCTETUND1_125 hypothetical protein
+HCTETUND1_126 hypothetical protein
+HCTETUND1_128 ATP-dependent Clp protease proteolytic subunit
+HCTETUND1_129 putative cytochrome c1
+HCTETUND1_130 putative cytochrome b
+HCTETUND1_132 hypothetical protein
+HCTETUND1_133 Phenylalanine--tRNA ligase alpha subunit
+HCTETUND1_134 putative 50S ribosomal subunit protein L20
+HCTETUND1_135 50S ribosomal protein L35
+HCTETUND1_137 hypothetical protein
+HCTETUND1_138 hypothetical protein
+HCTETUND1_139 50S ribosomal protein L13
+HCTETUND1_140 putative 30S ribosomal subunit protein S9
+HCTETUND1_141 hypothetical protein
+HCTETUND1_142 hypothetical protein
+HCTETUND1_143 Imidazoleglycerol-phosphate dehydratase
+HCTETUND1_144 Imidazole glycerol phosphate synthase subunit
+HCTETUND1_145 putative
+HCTETUND1_146 Imidazole glycerol phosphate synthase subunit
+HCTETUND1_147 Phosphoribosyl-ATP pyrophosphatase
+HCTETUND1_148 hypothetical protein
+HCTETUND1_149 5,10-methylenetetrahydrofolate reductase
+HCTETUND1_151 16S rRNA m(4) methyltransferase
+HCTETUND1_152 hypothetical protein
+HCTETUND1_155 Valine--tRNA ligase
+HCTETUND1_157 Histidinol-phosphatase
+HCTETUND1_158 tRNA(Ile)-lysidine synthetase
+HCTETUND1_159 Aerobic cobaltochelatase subunit CobT
+HCTETUND1_160 Aerobic cobaltochelatase subunit CobS small
+HCTETUND1_162 GTP cyclohydrolase 1
+HCTETUND1_164 Glutamate--tRNA ligase
+HCTETUND1_165 hypothetical protein
+HCTETUND1_166 hypothetical protein
+HCTETUND1_168 hypothetical protein
+HCTETUND1_169 hypothetical protein
+HCTETUND1_170 Glutamyl-tRNA(Gln) amidotransferase subunit A
+HCTETUND2_001 DNA-directed RNA polymerase subunit beta
+HCTETUND2_002 DNA-directed RNA polymerase subunit beta'
+HCTETUND2_003 30S ribosomal subunit protein S12
+HCTETUND2_004 30S ribosomal protein S7
+HCTETUND2_006 30S ribosomal protein S10
+HCTETUND2_007 putative 50S ribosomal subunit protein L3
+HCTETUND2_008 putative 50S ribosomal subunit protein L4
+HCTETUND2_009 50S ribosomal subunit protein L2
+HCTETUND2_010 30S ribosomal protein S19
+HCTETUND2_011 Ribosomal protein L22p
+HCTETUND2_012 30S ribosomal protein S3
+HCTETUND2_013 50S ribosomal subunit protein L16
+HCTETUND2_014 30S ribosomal protein S17
+HCTETUND2_015 50S ribosomal protein L14
+HCTETUND2_016 hypothetical protein
+HCTETUND2_017 50S ribosomal protein L5
+HCTETUND2_018 putative 30S ribosomal subunit protein S14
+HCTETUND2_019 putative 30S ribosomal subunit protein S8
+HCTETUND2_020 putative 30S ribosomal subunit protein S6
+HCTETUND2_021 putative 50S ribosomal subunit protein L18
+HCTETUND2_022 30S ribosomal protein S5
+HCTETUND2_023 50S ribosomal protein L15
+HCTETUND2_024 30S ribosomal protein S13
+HCTETUND2_025 putative 30S ribosomal subunit protein S11
+HCTETUND2_026 hypothetical protein
+HCTETUND2_027 DNA-directed RNA polymerase subunit alpha
+HCTETUND2_028 putative 50S ribosomal subunit protein L17
+HCTETUND2_029 50S ribosomal protein L25
+HCTETUND2_030 Ribose-phosphate pyrophosphokinase
+HCTETUND2_033 putative peptide chain release factor RF1
+HCTETUND2_037 Histidinol dehydrogenase
+HCTETUND2_040 DNA polymerase III subunit alpha
+HCTETUND2_041 Proline--tRNA ligase
+HCTETUND2_044 30S ribosomal protein S16
+HCTETUND2_045 50S ribosomal subunit protein L19
+HCTETUND2_048 Cysteine synthase
+HCTETUND2_050 Tryptophan--tRNA ligase
+HCTETUND2_053 Ferredoxin--NADP reductase
+HCTETUND2_054 Sulfite reductase
+HCTETUND2_055 hypothetical protein
+HCTETUND2_056 Chaperone protein DnaJ
+HCTETUND2_057 Heat shock protein 70
+HCTETUND2_058 hypothetical protein
+HCTETUND2_059 Translation initiation factor IF-2
+HCTETUND2_060 Cytochrome c2 precursor
+HCTETUND2_061 Electron transfer flavoprotein small subunit
+HCTETUND2_062 Electron transfer flavoprotein large subunit
+HCTETUND2_063 hypothetical protein
+HCTETUND2_069 50S ribosomal protein subunit L27
+HCTETUND2_070 hypothetical protein
+HCTETUND2_071 hypothetical protein
+HCTETUND2_072 hypothetical protein
+HCTETUND2_074 Riboflavin synthase alpha chain
+HCTETUND2_075 Histidine--tRNA ligase
+HCTETUND2_076 hypothetical protein
+HCTETUND2_082 Serine acetyltransferase
+HCTETUND2_083 hypothetical protein
+HCTETUND2_084 Glycine--tRNA ligase alpha subunit
+HCTETUND2_085 hypothetical protein
+HCTETUND2_086 Isoleucine--tRNA ligase
+HCTETUND2_087 co-chaperonin GroES
+HCTETUND2_088 chaperonin GroEL
+HCTETUND2_089 30S ribosomal protein S1
+HCTETUND2_090 Ribosomal RNA small subunit methyltransferase I
+HCTETUND2_091 30S ribosomal protein S2
+HCTETUND2_092 putative protein chain elongation factor EF-Ts
+HCTETUND2_093 Ribosome-releasing factor
+HCTETUND2_094 Methionine--tRNA ligase
+HCTETUND2_095 Histidinol-phosphate aminotransferase
+HCTETUND2_096 50S ribosomal protein L28
+HCTETUND2_097 Ribosomal RNA small subunit methyltransferase A
+HCTETUND2_098 30S ribosomal protein subunit S6
+HCTETUND2_099 30S ribosomal protein S18
+HCTETUND2_103 putative B12-dependent methionine synthase
+HCTETUND2_104 Translation initiation factor IF-3
+HCTETUND2_105 50S ribosomal protein L35
+HCTETUND2_106 putative 50S ribosomal subunit protein L20
+HCTETUND2_107 Phenylalanine--tRNA ligase alpha subunit
+HCTETUND2_108 hypothetical protein
+HCTETUND2_109 Ubiquinol-cytochrome c reductase iron-sulfur
+HCTETUND2_110 Cytochrome b
+HCTETUND2_111 Cytochrome c1 precursor
+HCTETUND2_112 cobalamin 5'-phosphate synthase
+HCTETUND2_113 hypothetical protein
+HCTETUND2_114 Alanine--tRNA ligase
+HCTETUND2_115 30S ribosomal subunit protein S4
+HCTETUND2_116 hypothetical protein
+HCTETUND2_117 Cytochrome c oxidase assembly protein CtaG
+HCTETUND2_118 Cytochrome c oxidase subunit 1-beta
+HCTETUND2_119 Cytochrome c oxidase subunit 2 precursor
+HCTETUND2_120 Thioredoxin reductase
+HCTETUND2_121 putative transcription elongation factor GreA
+HCTETUND2_122 hypothetical protein
+HCTETUND2_123 50S ribosomal protein L31
+HCTETUND2_124 50S ribosomal protein L36
+HCTETUND2_126 hypothetical protein
+HCTETUND2_129 putative cob(I)alamin adenosyltransferase
+HCTETUND2_130 hypothetical protein
+HCTETUND2_131 Precorrin-8X methylmutase
+HCTETUND2_132 Precorrin-6Y C5,15-methyltransferase
+HCTETUND2_133 hypothetical protein
+HCTETUND2_134 Cobalamin biosynthesis protein CbiG
+HCTETUND2_135 Cobalt-precorrin-4 C(11)-methyltransferase
+HCTETUND2_136 hypothetical protein
+HCTETUND2_137 Siroheme synthase
+HCTETUND2_140 Ferredoxin II
+HCTETUND2_141 RNA polymerase sigma factor
+HCTETUND2_142 DNA polymerase III subunit epsilon
+HCTETUND2_143 tRNA uridine 5-carboxymethylaminomethyl
+HCTETUND2_144 tRNA modification GTPase TrmE
+HCTETUND2_145 hypothetical protein
+HCTETUND2_146 50S ribosomal protein L13
+HCTETUND2_147 putative 30S ribosomal subunit protein S9
+HCTETUND2_148 hypothetical protein
+HCTETUND2_149 Imidazoleglycerol-phosphate dehydratase
+HCTETUND2_150 Imidazole glycerol phosphate synthase subunit
+HCTETUND2_151 putative
+HCTETUND2_152 Imidazole glycerol phosphate synthase subunit
+HCTETUND2_153 phosphoribosyl-ATP pyrophosphatase
+HCTETUND2_154 hypothetical protein
+HCTETUND2_155 5,10-methylenetetrahydrofolate reductase
+HCTETUND2_158 FeS cluster assembly protein sufB
+HCTETUND2_159 putative ATP-dependent transporter SufC
+HCTETUND2_160 hypothetical protein
+HCTETUND2_161 Cysteine desulfurase
+HCTETUND2_164 Valine--tRNA ligase
+HCTETUND2_165 pseudouridine synthase
+HCTETUND2_166 Histidinol-phosphatase
+HCTETUND2_169 Electron transfer flavoprotein-ubiquinone
+HCTETUND2_170 GTP cyclohydrolase 1
+HCTETUND2_171 phosphoribosyl-AMP cyclohydrolase
+HCTETUND2_172 Glutamate--tRNA ligase
+HCTETUND2_173 hypothetical protein
+HCTETUND2_174 hypothetical protein
+HCTETUND2_175 ribosomal protein L33
+HCTETUND2_177 hypothetical protein
+HCTETUND2_178 Glutamyl-tRNA(Gln) amidotransferase subunit A
+HCTETUND2_179 putative aspartyl/glutamyl-tRNA(Asn/Gln)
+HCTETUND2_183 putative 50S ribosomal subunit protein L11
+HCTETUND2_184 50S ribosomal protein L10
