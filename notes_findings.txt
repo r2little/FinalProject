@@ -1,0 +1,9 @@
+== PATHWAY / PSEUDOGENE FINDINGS (name + eggNOG ID based) ==
+- Comp 2: 136/169 RBH pairs, 44.4% identity; partners 57 on frag1, 79 on frag2
+- Comp 3: 237/242 RBH pairs, 95.0% identity
+- Pseudogenes: ~39 (frag1) + 19 (frag2), 0 in intact HCDSEM, 2 in SMDSEM (list in comparison2/pseudogenes.txt)
+- Pathway pseudogenes on fragments: his, rib, metC, many cob genes; working copy often on the other fragment
+- cbiX (HCTETUND2_130, EC 4.99.1.3) and cobJ (HCTETUND2_134, EC 2.1.1.131) are pseudogenes on frag1 but have working copies on frag2
+- pheA present in both Karelsulcia (SMDSEM_209, SMTETUND_210, EC 4.2.1.51)
+- Name searches missed genes that eggNOG IDs caught -> use both sources
+- OPEN: glyA (serine hydroxymethyltransferase), L2/L4 ribosomal label check, HisB check (K01693), acetate genes (minor)
